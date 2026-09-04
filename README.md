@@ -10,6 +10,6 @@
 
 <div align="center">
    <samp>
-      Computer science student and software engineer, passionate about mastering .NET and building impactful applications.
+      Computer science graduate and software engineer, passionate about mastering .NET and building impactful applications.
    </samp>
 </div>
